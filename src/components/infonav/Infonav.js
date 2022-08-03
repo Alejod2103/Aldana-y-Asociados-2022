@@ -20,7 +20,7 @@ const Infonav = () => {
                         <h1 class="flaticon-email font-weight-normal text-primary m-0 mr-3"><h1 style={{display: 'none'}}>texto relleno</h1></h1>
                         <div class="d-flex flex-column">
                             <h5>Nuestro Email</h5>
-                            <p class="m-0">test@example.com</p>
+                            <p class="m-0">Support@aldanas.com</p>
                         </div>
                     </div>
                 </div>
