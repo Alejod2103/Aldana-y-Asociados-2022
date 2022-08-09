@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14c14d00.css",
+    "main.js": "/static/js/main.ebe824e9.js",
+    "static/media/img11.jpg": "/static/media/img11.fd4e20b2f47b70d0e0f7.jpg",
+    "static/media/river1.jpg": "/static/media/river1.d2dd86c35adbec9321ae.jpg",
+    "static/media/river5.jpg": "/static/media/river5.6e9d99f8965dbb63573f.jpg",
+    "static/media/river3.jpg": "/static/media/river3.836252fb9e26d75376b8.jpg",
+    "static/media/img2.jpg": "/static/media/img2.a74b09db880480a8bc81.jpg",
+    "static/media/river2.jpg": "/static/media/river2.60e3b7c17331eaef02ae.jpg",
+    "static/media/river4.jpg": "/static/media/river4.3ef7068657769a093f5d.jpg",
+    "static/media/river6.jpg": "/static/media/river6.09026a62cab7bb47b7ef.jpg",
+    "static/media/aldana.jpeg": "/static/media/aldana.42c0b6ebd6e855fc0c37.jpeg",
+    "index.html": "/index.html",
+    "main.14c14d00.css.map": "/static/css/main.14c14d00.css.map",
+    "main.ebe824e9.js.map": "/static/js/main.ebe824e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14c14d00.css",
+    "static/js/main.ebe824e9.js"
+  ]
+}
