@@ -10,7 +10,7 @@ import service6 from '../../river/river6.jpg';
 const Servicios = () => {
   return (
     <>
-    <div class="container-fluid py-5">
+    <div class="container-fluid bg-light py-5">
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-8 col text-center mb-4">
