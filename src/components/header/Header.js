@@ -16,7 +16,7 @@ const Header = () => {
                 <div class="collapse navbar-collapse justify-content-between px-3" id="navbarCollapse">
                     <div class="navbar-nav ml-auto py-0">
                         <Link to="/" class="nav-item nav-link active">Home</Link>
-                        <Link to="/home/about" class="nav-item nav-link">Sobre Nosotros</Link>
+                        <Link to="/about" class="nav-item nav-link">Sobre Nosotros</Link>
                         <div class="nav-item dropdown">
                             <Link to="/home/servicios" class="nav-link dropdown-toggle" data-toggle="dropdown">Nuestros Servicios</Link>
                             <div class="dropdown-menu rounded-0 m-0">
@@ -26,7 +26,7 @@ const Header = () => {
                                 <Link to="/home/servicios" class="dropdown-item">Incorporacion de Negocios</Link>
                             </div>
                         </div>
-                        <a href="contact.html" class="nav-item nav-link">Contactenos</a>
+                        <a href="/contact" class="nav-item nav-link">Contactenos</a>
                     </div>
                 </div>
             </nav>

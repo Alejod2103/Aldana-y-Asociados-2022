@@ -14,7 +14,7 @@ const Banner = () => {
                         <div class="p-3" style={{maxWidth: '800px'}}>
                             <h4 class="text-primary text-uppercase font-weight-normal mb-md-3">Profesionales a tu servicio</h4>
                             <h3 class="display-3 text-white mb-md-4">Asistencia Legal</h3>
-                            <a href="null" class="btn btn-primary py-md-3 px-md-5 mt-2 mt-md-4">Saber Más</a>
+                            <a href="null" class="btn btn-primary py-md-3 px-md-5 mt-2 mt-md-4">Llame ahora!</a>
                         </div>
                     </div>
                 </div>
@@ -24,7 +24,7 @@ const Banner = () => {
                         <div class="p-3" style={{maxWidth: '800px'}}>
                             <h4 class="text-primary text-uppercase font-weight-normal mb-md-3">La mejor asistencia y soluciones</h4>
                             <h3 class="display-3 text-white mb-md-4">Asistencia Financiera</h3>
-                            <a href="null" class="btn btn-primary py-md-3 px-md-5 mt-2 mt-md-4">Saber Más</a>
+                            <a href="null" class="btn btn-primary py-md-3 px-md-5 mt-2 mt-md-4">Llame ahora!</a>
                         </div>
                     </div>
                 </div>
